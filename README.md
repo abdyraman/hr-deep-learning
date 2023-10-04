@@ -1,1 +1,2 @@
-# hr-deep-learning
+# hr-deep-learning 
+In this project, I began by exploring an employee attrition dataset, cleaning the data, and visualizing its features. Then I tackled the issue of imbalanced data using SMOTE. After splitting the data, I applied Logistic Regression, Random Forest, and Gradient Boosting models to predict employee attrition. The models yielded high accuracy and provided valuable insights for HR decision-making.
